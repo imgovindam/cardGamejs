@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(0, 87, 0);
+  font-family: sans-serif;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  height: 70vh;
+  justify-content: center;
+  flex-direction: column;
+  margin: 10px 12px;
+  padding: 30px;
+  color: white;
+  font-size: 15px;
+}
+h1 {
+  font-size: 20px;
+  color: rgb(255, 255, 105);
+  text-decoration: underline;
+}
+button {
+  padding: 15px;
+  background-color: rgb(255, 255, 0);
+  border: none;
+
+  font: bolder;
+  font-size: larger;
+  border-radius: 40px;
+  margin: 10px auto;
+}
+h2 {
+  margin-bottom: 10px auto;
+  color: rgb(200, 250, 0);
+  font-size: 40px;
+  text-shadow: yellow;
+  text-overflow: clip;
+  text-rendering: optimizeSpeed;
+  text-decoration: underline;
+}
+p {
+  background-color: rgb(212, 231, 150);
+  border-radius: 4px;
+  color: black;
+  font-size: 25px;
+}
